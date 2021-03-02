@@ -1,0 +1,13 @@
+C:\Users\AAERT\OneDrive\Escritorio\Parcial\obj\Debug\netcoreapp3.1\Parcial.csprojAssemblyReference.cache
+C:\Users\AAERT\OneDrive\Escritorio\Parcial\obj\Debug\netcoreapp3.1\Parcial.AssemblyInfoInputs.cache
+C:\Users\AAERT\OneDrive\Escritorio\Parcial\obj\Debug\netcoreapp3.1\Parcial.AssemblyInfo.cs
+C:\Users\AAERT\OneDrive\Escritorio\Parcial\obj\Debug\netcoreapp3.1\Parcial.csproj.CoreCompileInputs.cache
+C:\Users\AAERT\OneDrive\Escritorio\Parcial\bin\Debug\netcoreapp3.1\Parcial.exe
+C:\Users\AAERT\OneDrive\Escritorio\Parcial\bin\Debug\netcoreapp3.1\Parcial.deps.json
+C:\Users\AAERT\OneDrive\Escritorio\Parcial\bin\Debug\netcoreapp3.1\Parcial.runtimeconfig.json
+C:\Users\AAERT\OneDrive\Escritorio\Parcial\bin\Debug\netcoreapp3.1\Parcial.runtimeconfig.dev.json
+C:\Users\AAERT\OneDrive\Escritorio\Parcial\bin\Debug\netcoreapp3.1\Parcial.dll
+C:\Users\AAERT\OneDrive\Escritorio\Parcial\bin\Debug\netcoreapp3.1\Parcial.pdb
+C:\Users\AAERT\OneDrive\Escritorio\Parcial\obj\Debug\netcoreapp3.1\Parcial.dll
+C:\Users\AAERT\OneDrive\Escritorio\Parcial\obj\Debug\netcoreapp3.1\Parcial.pdb
+C:\Users\AAERT\OneDrive\Escritorio\Parcial\obj\Debug\netcoreapp3.1\Parcial.genruntimeconfig.cache
